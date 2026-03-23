@@ -1,0 +1,171 @@
+{
+  "personal": {
+    "name": "Nitender Kumar",
+    "title": "Software Developer | Machine Learning Enthusiast",
+    "summary": "Passionate Computer Science student with a strong foundation in Data Structures, Algorithms, and Full-Stack Development. Always eager to learn new technologies and build scalable applications.",
+    "email": "nitender9315@gmail.com",
+    "phone": "+91 9315070413",
+    "location": "Saket, Delhi, IN",
+    "social": {
+      "github": "https://github.com/nitender931599",
+      "linkedin": "https://www.linkedin.com/in/nitenderkumar9315/",
+      "leetcode": "https://leetcode.com/u/nitender9315/",
+      "hackerrank": "https://www.hackerrank.com/profile/nikhil931599"
+    }
+  },
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science and Engineering",
+      "institution": "Lovely Professional University",
+      "duration": "2023 - 2027",
+      "grade": "CGPA: 7.19",
+      "description": "Core subjects: Data Structures, Operating Systems, DBMS, Computer Networks."
+    }
+  ],
+  "about": {
+    "careerObjective": "To leverage my technical skills in a dynamic environment where I can contribute to innovative projects and grow as a software engineer.",
+    "interests": [
+      "Data Structures",
+      "Full Stack Development",
+      "Machine Learning",
+      "DevOps"
+    ],
+    "strengths": [
+      "Problem Solving",
+      "Adaptability",
+      "Team Collaboration",
+      "Continuous Learning"
+    ]
+  },
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "items": [
+        "C++",
+        "Java",
+        "Python",
+        "JavaScript"
+      ]
+    },
+    {
+      "category": "Web Technologies",
+      "items": [
+        "HTML",
+        "CSS",
+        "React.js",
+        "Node.js",
+        "Tailwind CSS",
+        "Express.js"
+      ]
+    },
+    {
+      "category": "Databases",
+      "items": [
+        "MongoDB",
+        "MySQL",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": [
+        "Git",
+        "Docker",
+        "Linux",
+        "AWS",
+        "Firebase"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Minor Prediction – Prediction and Recommendation System",
+      "description": "A scalable Machine Learning project for predicting Students Minor.",
+      "category": "Machine Learning",
+      "stack": [
+        "Python",
+        "Scikit-Learn",
+        "Pandas",
+        "NumPy"
+      ],
+      "features": [
+        "Minor Prediction",
+        "Recommendation System"
+      ],
+      "github": "https://github.com/nitender931599/INT234",
+      "live": "https://github.com/nitender931599/INT234",
+      "image": "https://static.vecteezy.com/system/resources/previews/021/644/208/large_2x/books-stacked-on-top-of-each-other-created-with-generative-ai-photo.jpg",
+      "duration": "Oct 2025 - Dec 2025"
+    },
+    {
+      "id": 2,
+      "title": "Ensemble Based Stock Prediction back-testing System",
+      "description": "A machine learning model to predict stocks.",
+      "category": "Machine Learning",
+      "stack": [
+        "Python",
+        "Pandas",
+        "Scikit-Learn",
+        "Flask"
+      ],
+      "features": [
+        "Data Preprocessing",
+        "Random Forest Classifier",
+        "Interactive Web UI"
+      ],
+      "github": "https://github.com/nitender931599/Ensemble-Based-Stock-Prediction-Backtesting-System",
+      "live": "https://ensemble-based-stock-prediction-backtesting-system-bpt3r4muujv.streamlit.app",
+      "image": "https://wallpaperaccess.com/full/2927307.jpg",
+      "duration": "Jun 2025 - July 2025"
+    }
+  ],
+  "certifications": [
+    {
+      "id": 1,
+      "name": "The Bits and Bytes of Computer Networking",
+      "platform": "Coursera",
+      "skills": [
+        "Computer Networks",
+        "Security"
+      ],
+      "link": "https://drive.google.com/file/d/1zLEdR17x1tAydwSqf4Q--eH47Ahb87ET/view?usp=sharing"
+    },
+    {
+      "id": 2,
+      "name": "Introduction to Hardware and Operating Systems",
+      "platform": "Coursera",
+      "skills": [
+        "Operating Systems",
+        "Fundamentals og Computer"
+      ],
+      "link": "https://drive.google.com/file/d/1gTW34NpQ7JMPjgwtpI54hTAU1hK2LgSh/view?hl=en"
+    }
+  ],
+  "achievements": [
+    {
+      "id": 1,
+      "platform": "LeetCode",
+      "rating": "Max Rating: 1850",
+      "problems_solved": "150+",
+      "title": "Top 15% User",
+      "link": "https://leetcode.com/u/nitender9315/"
+    },
+    {
+      "id": 2,
+      "platform": "HackerRank",
+      "rating": "5 Star",
+      "problems_solved": "100+",
+      "title": "Problem Solving Certified",
+      "link": "https://www.hackerrank.com/profile/nikhil931599"
+    },
+    {
+      "id": 3,
+      "platform": "Echo Club Hackathon 2024",
+      "rating": "1st Runner Up",
+      "problems_solved": "3",
+      "title": "Web Development",
+      "link": "https://drive.google.com/file/d/1AnRDQNZZBkSZzNarlwcdlgJI1IuuxXdp/view?usp=sharing"
+    }
+  ]
+}
