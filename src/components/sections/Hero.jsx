@@ -86,7 +86,7 @@ const Hero = () => {
                 View Projects
               </a>
               <a
-                href="/resume.pdf"
+                href={`${import.meta.env.BASE_URL}resume.pdf`}
                 target="_blank"
                 className="px-8 py-3.5 glass text-slate-900 dark:text-white rounded-xl font-medium transition-all flex items-center gap-2 hover:-translate-y-1 hover:bg-white/90 dark:hover:bg-slate-800/90 border border-slate-200 dark:border-slate-700"
               >
@@ -140,7 +140,7 @@ const Hero = () => {
               <div className="absolute inset-0 rounded-[2rem] md:rounded-[3rem] border-2 border-white/40 dark:border-slate-700/50 shadow-2xl overflow-hidden glass rotate-3 group-hover:rotate-0 transition-transform duration-500">
                 <div className="absolute inset-0 bg-gradient-to-t from-slate-900/40 to-transparent z-10 pointer-events-none"></div>
                 <motion.img
-                  src="/profile.jpeg"
+                  src={`${import.meta.env.BASE_URL}profile.jpeg`}
                   alt={personal.name}
                   className="w-full h-full object-cover"
                   initial={{ scale: 1.2 }}
